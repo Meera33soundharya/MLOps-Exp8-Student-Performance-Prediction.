@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+.airflow/
+model/*.pkl
+!model/.gitkeep
+data/*.csv
+!data/.gitkeep
